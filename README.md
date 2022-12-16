@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Valentin Paris
+### Hi there 👋, I'm Valentin Paris
 
 ## Welcome to my GitHub profile!
 
